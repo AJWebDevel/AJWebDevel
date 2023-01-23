@@ -3,7 +3,7 @@
 </div>
 
 
-Hello! My name is Abigayle and I am a front-end software developer currently studying C# on the back-end at Nashville Software School.  
+Hello! My name is Abigayle and I am a software developer currently studying C# on the back-end at Nashville Software School.  
 
 
 ## Skills
